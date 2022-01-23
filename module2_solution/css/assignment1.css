@@ -37,30 +37,3 @@
   font-family: Helvetica;
 }
 
-
-
-.box234 {
-  /*display: flex;*/
-  /*justify-content: right;*/
- /* align-items: center;*/
-  background-color: pink;
-  border: solid black 1px;
-   /*align-text: right;*/
-  height: 50%;
-  width: 50%;
-  text-align: center;
-  margin-bottom: 10px;
-  /*left: 50;*/
-  /*padding-left: 80%;*/
-  position: relative;
-  float: right;
-}
-
-.box-padding{
-	paddidng: 20px;
-}
-
-.container{
-	display: inline-flex;
-	justify-content: center;
-}
