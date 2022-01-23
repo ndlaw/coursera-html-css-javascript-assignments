@@ -1,0 +1,13 @@
+.box {
+  /*display: flex;*/
+  /*justify-content: right;*/
+ /* align-items: center;*/
+  background-color: pink;
+  border: solid black;
+  /*align-text: right;*/
+ /* height: 50%;
+  width: 50%;*/
+  /*left: 50;*/
+  padding-left: 70%;
+  position: relative;
+}
